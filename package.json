@@ -1,0 +1,25 @@
+{
+  "name": "pubs-api",
+  "version": "0.0.1",
+  "description": "Pubs API returns a list of pubs",
+  "main": "app.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tombuildstuff/pubs-api.git"
+  },
+  "author": "Tom Harvey / We Build Stuff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tombuildstuff/pubs-api/issues"
+  },
+  "homepage": "https://github.com/tombuildstuff/pubs-api#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  }
+}
