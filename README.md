@@ -2,10 +2,10 @@
 for use in workshops
 
 # Available Endpoints
-**HTTP GET _/pubs/all_**
+**HTTP GET** *_/pubs/all_*
 
-```
 *Sample Response*
+```
 [
   {
     "id": 2,
