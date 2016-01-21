@@ -19,7 +19,6 @@
   "homepage": "https://github.com/tombuildstuff/pubs-api#readme",
   "dependencies": {
     "body-parser": "^1.14.2",
-    "express": "^4.13.3",
-    "moment": "^2.10.6"
+    "express": "^4.13.3"
   }
 }
